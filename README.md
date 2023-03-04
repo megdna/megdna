@@ -4,7 +4,4 @@
 - 💞️ I am looking to collaborate on Data Science for Good
 - 📫 You can reach me at meg[at]d8a.org
 
-<!---
-megdna/megdna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<img src="https://c.statcounter.com/11088160/0/977098cc/1/test">
